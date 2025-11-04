@@ -26,7 +26,7 @@ A curated list of free and open-source software/apps useful for Applied Biotechn
 
 ## How to Contribute
 Feel free to add more tools via Pull Requests!
-This repository is maintained by [Your Name], MSc Applied Biotechnology & Microbiology.
+This repository is maintained by [SI-AHMED MANAR], MSc Applied Biotechnology & Microbiology.
 
 ---
 *This project highlights open-source tools that empower scientists without costly software.*
