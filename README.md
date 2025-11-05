@@ -42,3 +42,38 @@ This repository is maintained by [SI-AHMED MANAR], MSc Applied Biotechnology & M
 - 🎯 Why this project?
 This repository was created to help students and researchers in #microbiology and biotechnology#
 quickly find the best #free and open-source tools# for their daily lab work and data analysis.
+## 🧪 Additional Open-Source Tools for Microbiotech
+
+### 6. [Galaxy](https://usegalaxy.org/)
+- **Used for:** Bioinformatics workflows (genomics, proteomics, metabolomics)
+- **Why useful:** Web-based platform — no coding required; ideal for analyzing sequencing data.
+
+### 7. [MEGA X](https://www.megasoftware.net/)
+- **Used for:** Phylogenetic analysis
+- **Why useful:** Helps visualize evolutionary relationships between microbial species.
+
+### 8. [MicrobiomeAnalyst](https://www.microbiomeanalyst.ca/)
+- **Used for:** Microbiome data analysis and visualization
+- **Why useful:** Simplifies the interpretation of 16S rRNA sequencing data.
+
+### 9. [CellProfiler](https://cellprofiler.org/)
+- **Used for:** Quantitative analysis of microscopy images
+- **Why useful:** Detects and measures microbial cells automatically.
+
+### 10. [Benchling](https://benchling.com/)
+- **Used for:** DNA sequence design and lab notebook management
+- **Why useful:** Cloud platform for managing biotech experiments collaboratively.
+
+---
+
+## 💡 Practical Use in Student Labs
+
+- **Example 1:** Use *ImageJ* to count yeast or bacterial colonies in microscopic images.  
+- **Example 2:** Use *Galaxy* to analyze RNA-Seq data from microbial experiments.  
+- **Example 3:** Use *MEGA X* to build phylogenetic trees comparing bacterial strains.
+
+---
+
+## 📚 References & Resources
+- [Nature Biotechnology — Open-source tools in life sciences](https://www.nature.com/articles/nbt.4222)  
+- [Frontiers in Microbiology — Computational resources for microbiome analysis](https://www.frontiersin.org/articles/10.3389/fmicb.2019.00010/full)
