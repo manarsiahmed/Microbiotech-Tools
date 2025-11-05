@@ -95,3 +95,7 @@ quickly find the best #free and open-source tools# for their daily lab work and 
 ### 15. [BioRender](https://biorender.com/)
 - **Used for:** Creating scientific illustrations  
 - **Why useful:** Helps students design clear diagrams for presentations or reports.
+
+- ### 16. [CellDesigner](https://www.celldesigner.org/)
+- **Used for:** Modeling and visualizing biochemical networks  
+- **Why useful:** Helps researchers represent molecular interactions clearly and simulate biological pathways.
