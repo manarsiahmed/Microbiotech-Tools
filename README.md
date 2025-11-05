@@ -73,7 +73,25 @@ quickly find the best #free and open-source tools# for their daily lab work and 
 - **Example 3:** Use *MEGA X* to build phylogenetic trees comparing bacterial strains.
 
 ---
+## 🧰 Lab Simulation & Experimental Analysis Tools
 
-## 📚 References & Resources
-- [Nature Biotechnology — Open-source tools in life sciences](https://www.nature.com/articles/nbt.4222)  
-- [Frontiers in Microbiology — Computational resources for microbiome analysis](https://www.frontiersin.org/articles/10.3389/fmicb.2019.00010/full)
+### 11. [COPASI](https://copasi.org/)
+- **Used for:** Simulation and modeling of biochemical networks  
+- **Why useful:** Allows students to simulate enzyme kinetics, metabolic pathways, and microbial growth.
+
+### 12. [PyMOL](https://pymol.org/2/)
+- **Used for:** 3D visualization of proteins and small molecules  
+- **Why useful:** Excellent for studying molecular docking and protein-ligand interactions.
+
+### 13. [OpenCFU](https://opencfu.sourceforge.net/)
+- **Used for:** Counting bacterial colonies from petri dish images  
+- **Why useful:** Automates colony counting — faster and more accurate than manual methods.
+- ## 🎓 Educational & Training Resources
+
+### 14. [Virtual Microbiology Lab](https://learn.genetics.utah.edu/content/microbiome/)
+- **Used for:** Interactive learning about microbiomes and lab techniques  
+- **Why useful:** Free educational simulations to understand microbial diversity.
+
+### 15. [BioRender](https://biorender.com/)
+- **Used for:** Creating scientific illustrations  
+- **Why useful:** Helps students design clear diagrams for presentations or reports.
