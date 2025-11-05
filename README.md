@@ -2,7 +2,7 @@
 
 A curated list of free and open-source software/apps useful for Applied Biotechnology & Microbiology research.
 
-## Tools List
+## Tools List:
 
 ### 1. [ImageJ](https://imagej.net/)
 - Used for: Image analysis (microscopy, gel electrophoresis)
