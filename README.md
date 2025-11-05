@@ -37,6 +37,8 @@ This repository is maintained by [SI-AHMED MANAR], MSc Applied Biotechnology & M
 - 📊 Bioinformatics & Data Analysis → RStudio + Bioconductor, KBase  
 - 🧠 Molecular Visualization → UCSF ChimeraX
 
+
+
 - 🎯 Why this project?
 This repository was created to help students and researchers in #microbiology and biotechnology#
 quickly find the best #free and open-source tools# for their daily lab work and data analysis.
