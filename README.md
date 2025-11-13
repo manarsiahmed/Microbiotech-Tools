@@ -135,12 +135,8 @@ quickly find the best #free and open-source tools# for their daily lab work and 
 ### 9. [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 - **Used for:** Quality control of high-throughput sequencing data
 - **Why useful:** Essential preprocessing step for any NGS analysis
+## 10. seqtk
+- **Used for**: Processing sequencing reads in FASTA/Q format  
+- **Why useful**: Lightweight tool for sequence file manipulation  
 
-### 10. [seqtk](https://github.com/lh3/seqtk)
-- **Used for:** Processing sequencing reads in FASTA/Q format
-- **Why useful:** Lightweight tool for sequence file manipulation
-
-**Example usage:**
-```bash
-seqtk seq -a input_reads.fastq > output_reads.fasta
-
+**Example usage:** `seqtk seq -a input_reads.fastq > output_reads.fasta`
