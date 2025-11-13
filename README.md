@@ -141,4 +141,6 @@ quickly find the best #free and open-source tools# for their daily lab work and 
 - **Why useful**: Lightweight tool for sequence file manipulation  
 
 **Example usage:** `seqtk seq -a input_reads.fastq > output_reads.fasta`
+## Contributors
+- **Rahma Aissa** - Contributed bioinformatics tools section (FastQC, seqtk) with practical usage examples
 
