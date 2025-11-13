@@ -99,3 +99,22 @@ quickly find the best #free and open-source tools# for their daily lab work and 
 - ### 16. [CellDesigner](https://www.celldesigner.org/)
 - **Used for:** Modeling and visualizing biochemical networks  
 - **Why useful:** Helps researchers represent molecular interactions clearly and simulate biological pathways.
+## Omics Data Integration 🧬
+
+### 1️⃣ OmicsBox (Community Edition)
+**Used for:** Functional genomics analysis (transcriptomics, proteomics, functional annotation)  
+**Why useful:** Integrates multiple omics workflows in one platform.  
+
+**Usage:**  
+1. Open OmicsBox Community Edition.  
+2. Import your RNA-Seq or proteomics files.  
+3. Run workflows for functional annotation, differential expression, and pathway analysis.  
+4. Export results as tables or graphs.
+
+### 2️⃣ Seqtk / FastQC
+**Used for:** Quality control of NGS sequencing data  
+**Why useful:** Essential for preprocessing microbiome or transcriptomics data.
+
+**Seqtk Example:**
+```bash
+seqtk seq -a input_reads.fastq > output_reads.fasta
