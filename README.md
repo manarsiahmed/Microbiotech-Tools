@@ -116,131 +116,31 @@ quickly find the best #free and open-source tools# for their daily lab work and 
 **Why useful:** Essential for preprocessing microbiome or transcriptomics data.
 
 **Seqtk Example:**
-```bash
-seqtk seq -a input_reads.fastq > output_reads.fasta
 ## Metagenomics & Microbial Ecology Tools
 
-### 17. [QIIME 2](https://qiime2.org/)
+### 6. [QIIME 2](https://qiime2.org/)
 - **Used for:** Microbial community analysis (16S, ITS sequencing)
-- **Why useful:** Provides reproducible workflows for studying microbiomes; integrates taxonomic and diversity analysis.
+- **Why useful:** Provides reproducible workflows for studying microbiomes
 
-### 18. [MG-RAST](https://www.mg-rast.org/)
+### 7. [MG-RAST](https://www.mg-rast.org/)
 - **Used for:** Automatic annotation of metagenomic data
-- **Why useful:** Web-based tool to identify species and functions from environmental samples.
+- **Why useful:** Web-based tool to identify species from environmental samples
 
----
+## Bioinformatics & NGS Analysis Tools
 
-## AI & Computational Biology Tools
+### 8. [OmicsBox](https://www.biobam.com/omicsbox/)
+- **Used for:** Functional genomics, transcriptomics, and proteomics
+- **Why useful:** Complete bioinformatics solution for NGS data analysis
 
-### 19. [AlphaFold](https://alphafold.ebi.ac.uk/)
-- **Used for:** Predicting 3D protein structures from amino acid sequences
-- **Why useful:** Revolutionized structural biology with AI-based predictions comparable to experimental results.
+### 9. [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+- **Used for:** Quality control of high-throughput sequencing data
+- **Why useful:** Essential preprocessing step for any NGS analysis
 
-### 20. [DeepGOPlus](https://deepgoplus.bio2vec.net/)
-- **Used for:** Protein function prediction using deep learning
-- **Why useful:** Helps annotate newly discovered microbial proteins efficiently.
+### 10. [seqtk](https://github.com/lh3/seqtk)
+- **Used for:** Processing sequencing reads in FASTA/Q format
+- **Why useful:** Lightweight tool for sequence file manipulation
 
----
-
-## Data Visualization & Network Analysis
-
-### 21. [Cytoscape](https://cytoscape.org/)
-- **Used for:** Visualizing molecular interaction networks and biological pathways
-- **Why useful:** Integrates omics data to explore gene/protein interactions.
-
-### 22. [Gephi](https://gephi.org/)
-- **Used for:** General data network visualization
-- **Why useful:** Excellent for exploring microbial co-occurrence networks or gene regulatory relationships.
-
----
-
-## Structural & Drug Discovery Tools
-
-### 23. [AutoDock Vina](https://vina.scripps.edu/)
-- **Used for:** Molecular docking simulations
-- **Why useful:** Predicts ligand binding sites in microbial proteins; supports antibiotic design research.
-
-### 24. [SwissADME](https://www.swissadme.ch/)
-- **Used for:** Predicting pharmacokinetic properties of compounds
-- **Why useful:** Evaluates drug-likeness of molecules from natural microbial sources.
-
----
-
-## Systems Biology & Pathway Databases
-
-### 25. [KEGG Mapper](https://www.genome.jp/kegg/mapper.html)
-- **Used for:** Mapping genes and enzymes to biological pathways
-- **Why useful:** Helps visualize how microbial genes fit into metabolic networks.
-
-### 26. [BioCyc](https://biocyc.org/)
-- **Used for:** Accessing curated microbial genome and pathway databases
-- **Why useful:** Useful for reconstructing metabolism and comparing microbial species.
-
----
-
-## Contributors
-
-- **Rahma Aissa** — Added AI & Metagenomics tools section.## Metagenomics & Microbial Ecology Tools
-
-### 17. [QIIME 2](https://qiime2.org/)
-- **Used for:** Microbial community analysis (16S, ITS sequencing)
-- **Why useful:** Provides reproducible workflows for studying microbiomes; integrates taxonomic and diversity analysis.
-
-### 18. [MG-RAST](https://www.mg-rast.org/)
-- **Used for:** Automatic annotation of metagenomic data
-- **Why useful:** Web-based tool to identify species and functions from environmental samples.
-
----
-
-## AI & Computational Biology Tools
-
-### 19. [AlphaFold](https://alphafold.ebi.ac.uk/)
-- **Used for:** Predicting 3D protein structures from amino acid sequences
-- **Why useful:** Revolutionized structural biology with AI-based predictions comparable to experimental results.
-
-### 20. [DeepGOPlus](https://deepgoplus.bio2vec.net/)
-- **Used for:** Protein function prediction using deep learning
-- **Why useful:** Helps annotate newly discovered microbial proteins efficiently.
-
----
-
-## Data Visualization & Network Analysis
-
-### 21. [Cytoscape](https://cytoscape.org/)
-- **Used for:** Visualizing molecular interaction networks and biological pathways
-- **Why useful:** Integrates omics data to explore gene/protein interactions.
-
-### 22. [Gephi](https://gephi.org/)
-- **Used for:** General data network visualization
-- **Why useful:** Excellent for exploring microbial co-occurrence networks or gene regulatory relationships.
-
----
-
-## Structural & Drug Discovery Tools
-
-### 23. [AutoDock Vina](https://vina.scripps.edu/)
-- **Used for:** Molecular docking simulations
-- **Why useful:** Predicts ligand binding sites in microbial proteins; supports antibiotic design research.
-
-### 24. [SwissADME](https://www.swissadme.ch/)
-- **Used for:** Predicting pharmacokinetic properties of compounds
-- **Why useful:** Evaluates drug-likeness of molecules from natural microbial sources.
-
----
-
-## Systems Biology & Pathway Databases
-
-### 25. [KEGG Mapper](https://www.genome.jp/kegg/mapper.html)
-- **Used for:** Mapping genes and enzymes to biological pathways
-- **Why useful:** Helps visualize how microbial genes fit into metabolic networks.
-
-### 26. [BioCyc](https://biocyc.org/)
-- **Used for:** Accessing curated microbial genome and pathway databases
-- **Why useful:** Useful for reconstructing metabolism and comparing microbial species.
-
----
-
-## Contributors
-
-- **Rahma Aissa** — Added AI & Metagenomics tools section.
+**Example usage:**
+```bash
+seqtk seq -a input_reads.fastq > output_reads.fasta
 
